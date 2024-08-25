@@ -1,3 +1,7 @@
+namespace imc_xunit;
+
+public class UnitTest1
+{
     [Fact]
     public void Teste_Calculo_IMC()
     {
@@ -25,3 +29,4 @@
         i.Classificar_IMC();
         Assert.Equal(i.categoria, cat);
     }
+}

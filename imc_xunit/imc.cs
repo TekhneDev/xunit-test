@@ -1,4 +1,4 @@
-namespace 
+namespace imc_xunit
 {
     public class IMC
     {
